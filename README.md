@@ -1,4 +1,4 @@
-# Hi, I'm Ansh 👋
+# Hi, I'm Ansh Jagwal👋
 
 I'm a frontend developer who enjoys building clean and interactive web experiences.
 
