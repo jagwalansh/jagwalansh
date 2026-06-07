@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**jagwalansh/jagwalansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who enjoys building clean and interactive web experiences.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Build modern web applications with React and Tailwind CSS
+* Create smooth UI animations and responsive designs
+* Learn full-stack development by building real projects
+* Explore cloud technologies and AI/ML
+
+## Tech Stack
+
+* React
+* JavaScript
+* TypeScript
+* Tailwind CSS
+* Vite
+* Supabase
+* Cloudflare
+* Git & GitHub
+
+## Current Focus
+
+* Improving my frontend skills
+* Learning backend development
+* Building products that people can actually use
+
+## Projects
+
+Most of my repositories are focused on web development, UI design, and personal projects where I experiment with new technologies and ideas.
+
+## Connect
+
+Always open to learning, collaborating, and connecting with other developers.
+
+Thanks for stopping by!
+
