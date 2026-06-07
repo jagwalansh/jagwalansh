@@ -16,12 +16,5 @@ I'm a frontend developer who enjoys building clean and interactive web experienc
 * Cloudflare
 * Git & GitHub
 
-## Current Focus
-* Improving my frontend skills
-* Learning backend development
-* Building products that people can actually use
-
-## Projects
-Most of my repositories are focused on web development, UI design, and personal projects where I experiment with new technologies and ideas.
 
 
